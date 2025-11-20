@@ -2611,7 +2611,6 @@ footer .copyright span:last-child::after {
     padding-bottom: 56.25%; /* 16:9 ratio */
     height: 0;
     overflow: hidden;
-    border-radius: 8px; /* optional */
 }
 
 .video-wrapper iframe {
